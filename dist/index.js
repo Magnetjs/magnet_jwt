@@ -77,3 +77,4 @@ var JWT = function (_Base) {
 }(_base2.default);
 
 exports.default = JWT;
+//# sourceMappingURL=index.js.map

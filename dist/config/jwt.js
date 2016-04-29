@@ -18,3 +18,4 @@ exports.default = {
   // https://github.com/Foxandxss/koa-unless
   unless: {}
 };
+//# sourceMappingURL=jwt.js.map
